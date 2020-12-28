@@ -1,5 +1,6 @@
 # public-sources
 collect IPv6 address from public sources
+
 Domain Lists:: a total of 212 M domains from various large zones, resolved for AAAA records on a daily basis, yielding about 9.8 M unique IP addresses. This source also includes domains extracted from blacklists provided by Spamhaus, APWG, and Phishtank, which leverage 8.5 M, 376 k, and 170 k domains, respectively.
 
 FDNS: A comprehensive set of forward DNS (FDNS) ANY lookups performed by Rapid7, yielding 2.5 M unique addresses. CT: DNS domains extracted from TLS certificates logged in
